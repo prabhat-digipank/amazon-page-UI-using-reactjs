@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    background-color: rgb(7, 7, 7);
+    height: 60px;
+    width:1830px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1px;
+}
+.header1>img{
+    display: flex;
+    width:150px;
+    
+    height: 55px;
+    
+}
+.header2{
+    padding-right: 5px;
+}
+.header3{
+display: flex;
+align-items: center;
+background-color: white;
+border-radius: 3px;
+}
+.header3>input{
+    border: none;
+    outline: none;
+    width: 45vw;
+    padding: 10px 15px;
+    border-radius: 3px;
+}
+.header4>img{
+    display: flex;
+    width:35px;
+    padding-right:px;
+    height: 35px;
+    margin-top:  10px;
+}
+.header5{
+ align-items: center;
+}
+.header6{
+    align-items: center;
+}
+.header7>AddShoppingCartIcon{
+    align-items: center;
+    font-size: large;
+}

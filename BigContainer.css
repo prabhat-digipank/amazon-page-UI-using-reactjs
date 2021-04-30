@@ -1,0 +1,360 @@
+.bigcontainer{
+    background-color: rgb(100, 99, 99);
+    height:3000px;
+    width:1825px;
+    margin-left: 5px;
+}
+.subcontainer{
+    background-color:rgb(161, 161, 161);
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.subcontainer2{
+ padding-left: 400px;
+}
+.subcontainer3>img{
+    height: 300px;
+    padding-right: 200px;
+    width:800px;
+}
+.subcontainer1{
+    padding-top: 115px;
+}
+.subcontainer4{
+    padding-top: 115px;
+}
+.box{
+display: flex;
+padding-left: 10px;
+background-color: rgb(219, 218, 218);
+}
+.box1{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.box11{
+    font-weight: bold;
+    font-size: 20px;
+}
+.box2{
+    background-color: rgb(253, 253, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.box211{
+    font-weight: bold;
+    font-size: 20px;
+}
+.box3{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    padding-left: 20px;
+}
+.box311{
+    font-weight: bold;
+    font-size: 20px;
+}
+.box31>img{
+    padding-left: 5px;
+    padding-right: 5px;
+    height:330px;
+    display: grid;
+    padding-top: 30px;
+}
+.txt{
+    padding-left: 10px;
+    padding-top: 78px;
+}
+.box4{
+    background-color: rgb(251, 251, 255);
+    width:450px;
+    height: 190px;
+    margin:5px;
+}
+.box41{
+    padding-left: 10px;
+}
+.box42{
+    background-color: orange;
+    width:400px;
+    height: 40px;
+    border: 20px;
+    border-radius: 5px;
+    margin: 30px;
+    align-items: center;
+}
+.box42>span{
+  padding-left: 150px;
+  margin-top: 50px;
+}
+.boxbox{
+    border-color: black;
+    border-radius: 50px;
+}
+.box43>img{
+    padding-left: 40px;
+    width: 330px;
+    height: 290px;
+    margin: 30px;
+}
+.secondbox{
+    display: flex;
+    padding-left: 10px;
+    background-color: rgb(202, 199, 199);
+}
+.sbox1{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.sbox11{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sbox2{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.sbox21{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sbox3{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.sbox31{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sbox4{
+    background-color: rgb(255, 255, 255);
+    width:450px;
+    height: 500px;
+    margin:5px;
+    
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.sbox41{
+    font-weight: bold;
+    font-size: 20px;
+    display: grid;
+}
+.sbox42>img{
+    padding-left: 5px;
+    padding-right: px;
+    height:350px;
+    width: 370px;
+    
+    padding-top: 20px;
+}
+.txt1{
+    padding-top: 35px;
+}
+.ess{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(255, 255, 255);
+}
+.thirdbox{
+    background-color: rgb(250, 250, 250);
+    height: 280px;
+}
+.images{
+    display: grid;
+    grid-template-columns: repeat(7,auto);
+    grid-gap: 4rem;
+    padding-top: 15px;
+    padding-left: 70px;
+}
+.fourthbox{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgba(241, 237, 237, 0.904);
+}
+.fbox1{
+    background-color: white;
+    width:400px;
+    height: 450px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.fbox11{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fbox2{
+    background-color: white;
+    width:400px;
+    height: 450px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.fbox21{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fbox3{
+    background-color: white;
+    width:400px;
+    height: 450px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.fbox31{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fbox41{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fbox42>img{
+    padding-left: 5px;
+    padding-right: px;
+    height:370px;
+    width: 380px;
+    
+    padding-top: 10px;
+}
+.txt3{
+    padding-top: 20px;
+}
+.fifthcon{
+    display: grid;
+    grid-template-columns: repeat(1);
+    height: 40px;
+    background-color: rgb(41, 40, 40);
+    margin: 10px;
+}
+.f{
+    font-size: 17px;
+    padding-top: 10px;
+    padding-left: 800px;
+    color: white;
+}
+.sixthcon{
+display: grid;
+grid-template-columns: repeat(4,auto);
+background-color: rgb(59, 57, 57);
+margin-top: 10px;
+width: 1805px;
+height: 330px;
+padding-top: 60px;
+grid-gap: 50px;
+}
+.s1{
+ padding-left: 350px;
+}
+.s3{
+    padding-right: 10px;
+}
+.s2{
+    padding-right: 20px;
+}
+.s4{
+    padding-right: 300px;
+}
+.newcon{
+    display: flex;
+    padding-top: 380px;
+    margin: 10px;
+    background-color:rgb(59, 57, 57);
+    height: 40px;
+}
+.im>img{
+    width:120px;
+    height: 40px;
+    padding-left: 700px;
+    border:rgb(59, 57, 57);
+    border-radius: 3px;
+    align-items: center;
+}
+.web{
+    padding-left: 20px;
+    align-items: center;
+    background-color: rgb(59, 57, 57);
+    border-radius: 3px;
+    border: rgb(255, 255, 255);
+    }
+    .web>input{
+        border: none;
+        outline: none;
+        width: 5vw;
+        padding: 10px 1px;
+        border-radius: 3px;
+        background-color: rgb(59, 57, 57));
+    }
+    .web>span{
+        padding-left: 60px;
+    }
+     .yes{
+        display: flex;
+        justify-content: space-around;
+        background-color: rgb(59, 57, 57);
+        height: 30px;
+        align-items: center;
+        margin: 10px;
+        padding-left: 300px;
+        padding-right: 290px;
+    } 
+    .lastcon{
+         display: grid;
+        grid-template-columns: repeat(5,auto); 
+        padding-left: 500px;
+        padding-right: 600px;
+        padding-top: 40px;
+        grid-gap:20px;
+        background-color: rgb(59, 57, 57);
+        margin: 10px;
+        height: 200px;
+    }
+.container{
+    background-color: rgb(59, 57, 57);
+}
